@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import AboutImg from '../public/assets/about.jpg';
+import AboutImg from '../public/assets/about.jpeg';
 
 const About = () => {
   return (
@@ -23,7 +23,7 @@ const About = () => {
             specific language, but choosing the best tool for the job.
           </p>
           <Link href='/#projects'>
-            <p className='py-2 text-gray-600 underline cursor-pointer'>
+            <p className='py-2 text-gray-600 underline cursor-pointer text-[#5651e5]'>
               Check out some of my latest projects.
             </p>
           </Link>

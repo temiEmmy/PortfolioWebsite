@@ -20,14 +20,14 @@ const resume = () => {
           <h2 className='text-center'>Temidayo Adebayo</h2>
           <div className='flex'>
             <a
-              href='https://www.linkedin.com/in/clint-briley-50056920a/'
+              href='https://www.linkedin.com/in/adebayotemidayo/'
               target='_blank'
               rel='noreferrer'
             >
               <FaLinkedinIn size={20} style={{ marginRight: '1rem' }} />
             </a>
             <a
-              href='https://github.com/fireclint'
+              href='https://github.com/dayordev'
               target='_blank'
               rel='noreferrer'
             >
@@ -43,21 +43,15 @@ const resume = () => {
             </p>
           </div>
           <div className='block sm:hidden'>
-            <p>Proven Leadership</p>
             <p className='py-2'>Web Development</p>
             <p>Complex Problem Solving</p>
           </div>
         </div>
         <p>
-          Analytical, innovative, and motivated web development professional
-          with experience in customer service, team leadership, and
+          Analytical, innovative, and motivated web developer
+          with experience in customer service and
           organizational effectiveness in fast-paced and challenging
-          environments. Adapt at developing strategies and driving streamlined
-          operations. Diverse analytical skills, team collaboration, and
-          relationship building. Consummate professional, and motivated leader,
-          with solid interpersonal abilities and complex problem-solving skills.
-          Effective and proven track record of critical thinking, idea
-          generation, and optimizing efficiencies.
+          environments. Adapt at developing strategies. Diverse analytical skills, team collaboration, and relationship building. Having solid interpersonal abilities and complex problem-solving skills. Effective critical thinking, idea generation, and optimizing efficiencies.
         </p>
 
         {/* Skills */}
@@ -72,14 +66,14 @@ const resume = () => {
             <span className='px-2'>|</span>React
             <span className='px-2'>|</span>Next JS
             <span className='px-2'>|</span>FIGMA
-            <span className='px-2'>|</span>Redux
+            <span className='px-2'>|</span>Styled components
             <span className='px-2'>|</span>Tailwind
             <span className='px-2'>|</span> Firebase
-            <span className='px-2'>|</span> RESTAPI
+            <span className='px-2'>|</span> API
           </p>
           <p className='py-2'>
             <span className='font-bold'>Graphics</span>
-            <span className='px-2'>|</span>Logo |
+            <span className='px-2'>|</span>
             Animations | Video Ads 
           </p>
         </div>
@@ -91,51 +85,28 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
-            INFINITE TECH
+            FRONT END WEB DEVELOPER (Intern)
             </span>
-            <span className='px-2'>|</span>Dallas, TX
+            <span className='px-2'>|</span>WebProx Technologies
           </p>
-          <p className='py-1 italic'>Front End Web Developer & Web Master (2013 - Current)</p>
+          <p className='py-1 italic'>Front End Web Developer & Web Designer (2021 - 2022)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Ensured comprehensive mobile responsive UI layouts with
               understanding of HTML, CSS, and JavaScript.
             </li>
             <li>
-              Troubleshoot issues and concerns, configure operation and analytic
-              plugins, and design changes as needed.
+              Ensured websites are accessible across many platforms, including laptops and smartphones
             </li>
             <li>
               Worked directly with a diverse client base to understand and
               implement multiple technologies and programs.
             </li>
             <li>
-              Platform migration managing DNS servers as well as MX records and
-              ensuring a smooth migration process.
-            </li>
-          </ul>
-        </div>
-
-
-        {/* Personal Experience */}
-        <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold italic'>
-              Teaching & Mentoring Web Development
-            </span>
-            <span className='px-2'>|</span>Dallas, TX
-          </p>
-          <p className='py-1 italic'>Code Commerce - Youtube Channel (2021 - Current)</p>
-          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
-            <li>
-              In 2021 I started “Code Commerce”, a YouTube channel focused on
-              sharing what I’m learning in web development, specifically
-              front-end development.
+              Implemented web performance optimization and ensured web pages conformed to accessibility standards.
             </li>
             <li>
-              Private 1 on 1 Zoom coaching calls related to web development.
-              More specifically debugging, teaching basic web development
-              concepts and code reviews.
+              And more
             </li>
           </ul>
         </div>
@@ -148,37 +119,24 @@ const resume = () => {
         {/* Experience */}
         <div className='py-6'>
           <p className='italic'>
-            <span className='font-bold'>CITY OF SHERMAN, TX</span>
-            <span className='px-2'>|</span>Sherman, TX
+            <span className='font-bold'>BUSINESS OFFICER</span>
+            <span className='px-2'>|</span>D'FAB Multiglobal Services
           </p>
-          <p className='py-1 italic'>Paramedic / Firefighter (2010 – 2019)</p>
+          <p className='py-1 italic'>Business Officer / Direct Sales Executive (2019 – 2020)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              Ensured proper implementation of firefighting techniques and
-              practices including controlling and extinguishing fires, operating
-              hose lines, and fire ground operations, ventilation, and search
-              and rescue.
+              Acted as a contact between a company and its existing and potential markets.
             </li>
             <li>
-              Oversaw comprehensive understanding, operation, and maintenance of
-              fire engines, ladder trucks, technical rescue apparatus, and
-              response trailers.
+              Maintained and developed relationships with existing customers in person and via telephone calls and emails.
             </li>
             <li>
-              Performed ALS techniques as needed within emergency situations
-              including the use of an esophageal or dual lumen airway device and
-              oral intubation using laryngoscopy.
+              Made accurate, rapid cost calculations and providing customers with quotations.
             </li>
             <li>
-              Collaborated with a talented and high performing team of
-              firefighters in high pressure and stressful situations as needed.
+              Presented print products favourably and in a structured professional way face-to-face.
             </li>
-            <li>
-              Utilized proven and demonstrated knowledge of multiple
-              certifications including Pediatric Advanced Life Support,
-              Prehospital Trauma Life Support, and Advanced Cardiac Life
-              Support, among others.
-            </li>
+            
           </ul>
         </div>
       </div>
