@@ -23,7 +23,7 @@ const About = () => {
             specific language, but choosing the best tool for the job.
           </p>
           <Link href='/#projects'>
-            <p className='py-2 text-gray-600 underline cursor-pointer text-[#5651e5]'>
+            <p className='py-2 text-gray-600 underline cursor-pointer'>
               Check out some of my latest projects.
             </p>
           </Link>

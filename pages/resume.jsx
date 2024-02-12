@@ -120,7 +120,7 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold'>BUSINESS OFFICER</span>
-            <span className='px-2'>|</span>D'FAB Multiglobal Services
+            <span className='px-2'>|</span>DFAB Multiglobal Services
           </p>
           <p className='py-1 italic'>Business Officer / Direct Sales Executive (2019 – 2020)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>

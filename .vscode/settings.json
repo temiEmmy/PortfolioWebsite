@@ -1,4 +1,15 @@
 {
     "files.autoSave": "afterDelay",
-    "editor.fontSize": 15.5
+    "editor.fontSize": 13.5,
+    "editor.lineHeight": 1.25,
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {
+            "editor.lineHighlightBackground": "#1a1717",
+            "editor.background": "#141414",
+            "editorLineNumber.foreground": "#423e3e",
+            "editorIndentGuide.background": "#211f1f"
+        }
+    },
+    "terminal.integrated.fontSize": 13.5
 }
+

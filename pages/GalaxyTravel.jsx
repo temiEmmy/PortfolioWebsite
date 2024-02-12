@@ -31,14 +31,14 @@ const GalaxyTravel = () => {
             Vanilla CSS. The application is hosted using Netlify.
           </p>
           <a
-            href='https://github.com/dayordev/Galaxy-Travel-website'
+            href='https://galaxytravelweb.netlify.app'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Demo</button>
           </a>
           <a
-            href='https://galaxytravelweb.netlify.app'
+            href='https://github.com/dayordev/Galaxy-Travel-website'
             target='_blank'
             rel='noreferrer'
           >
