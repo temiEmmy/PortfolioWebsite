@@ -1,6 +1,6 @@
 {
     "files.autoSave": "afterDelay",
-    "editor.fontSize": 13.5,
+    "editor.fontSize": 13,
     "editor.lineHeight": 1.25,
     "workbench.colorCustomizations": {
         "[Default Dark+]": {
