@@ -28,7 +28,7 @@ const Main = () => {
               </div>
             </a>
             <a
-              href='https://github.com/dayordev'
+              href='https://github.com/dayotech'
               target='_blank'
               rel='noreferrer'
             >
